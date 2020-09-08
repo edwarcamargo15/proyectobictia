@@ -1,0 +1,12 @@
+
+Sitemap: [https://cdn.fbsbx.com/v/t59.2708-21/113704229_327610684928857_4321015994824963019_n.xml/sitemap-1.xml?_nc_cat=101&_nc_sid=0cab14&_nc_eui2=AeFfWem0J79fcZNgWjyw7Psp-TNCIlxAQJf5M0IiXEBAl9iXwz_e0X9aWn_3_xPGK2TLP1JhogMd_JDASAi5zXxh&_nc_ohc=h8MlhJJDpBgAX-TI5J9&_nc_ht=cdn.fbsbx.com&oh=0a80329998a39df67b9fd7f9fc8c790b&oe=5F253A7F&dl=1]
+
+User-agent: *
+Disallow:/assets*
+Disallow:/css*
+Disallow:/js*
+Disallow:/pago*
+Disallow:/paquete*
+Disallow:/productos*
+Disallow:/servicios*
+Disallow:/index.html
